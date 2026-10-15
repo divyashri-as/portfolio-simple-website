@@ -6,4 +6,4 @@ A simple personal portfolio website built using HTML and basic CSS. It consists 
 - HTML
 - CSS
 
-**Live Demo:** [https://divyashri-as.github.io/portfolio-simple-website/](LINK)
+**Live Demo:** https://divyashri-as.github.io/portfolio-simple-website/
